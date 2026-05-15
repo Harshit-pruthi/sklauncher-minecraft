@@ -20,9 +20,9 @@
 <img width="1012" height="673" alt="image" src="https://github.com/user-attachments/assets/b28d2b70-3a09-40e4-b794-702567cb57ba" />
 
 ---
-## 📥 Download
+## Install
 [Download `SkLauncher.zip`](https://github.com/Harshit-pruthi/sklauncher-minecraft/releases/download/Minecraft/SkLauncher.zip)
-
+---
 > Optimized for Windows 10 and Windows 11.
 
 ## Installation
